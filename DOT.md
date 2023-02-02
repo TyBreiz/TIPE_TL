@@ -26,7 +26,7 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus.
--
+  Sujet 1 : "Le 25eme départ à-t-il un avantage sur le premier lors d'un slalom", (Frottement, usure de la glace, on pourrait aussi jouer sur l'ysure des     ski au fil de la course).
 -
 -
 -
