@@ -1,9 +1,9 @@
-# Mater n'importe quand, n'importe ou avec n'importe quoi.
+# Mater n'importe quand, n'importe ou, avec n'importe quoi.
 
-## Motivations pour le choix du sujet
+## Motivation
 
 
-## Ancrage du sujet au thème de l'année
+## Recherche en largeur dans un graphe, ou en programmation dynammique
 
 
 ## Positionnement thématique (par ordre de priorité décroissante)
