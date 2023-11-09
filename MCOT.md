@@ -1,4 +1,4 @@
-# Mater n'importe quand, n'importe ou, avec n'importe quoi.
+# Gestion de l'équilibrage du jeu abalone à l'aide le l'intelligence artificielle.
 
 ## Motivation
 
