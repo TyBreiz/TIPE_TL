@@ -43,5 +43,5 @@ L'objectif consiste determiner une relation entre les positions initiales qui li
 ## Références bibliographiques (2 à 10 références)
 
 [1] Wikipesia abalone ; https://fr.wikipedia.org/wiki/Abalone_(jeu) 
-[2] https://marmelab.com/blog/2022/09/02/coder-une-ia-imbattable-a-abalone.html
+[2] https://marmelab.com/blog/2022/09/02/coder-une-ia-imbattable-a-abalone.html 
 [3] Cours MPI
