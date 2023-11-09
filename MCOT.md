@@ -4,14 +4,10 @@
 Cela peut parfois être frustrant de perdre des parties de jeux de sociétés du à sont positionnement dans la partie qui est souvent choisi aléatoirement.
 Mon TIPE consistera donc à trouver la configuration de départ la plus équilibré pour le jeu Abalone.
 
-## Recherche en largeur dans un graphe, ou en programmation dynammique
-
-
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.
-2.
-3.
+  - MATHEMATIQUES (Mathématiques Appliquées)
+	- INFORMATIQUE (Informatique Théorique)
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
