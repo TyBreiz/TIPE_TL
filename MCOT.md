@@ -6,12 +6,8 @@ Mon TIPE consistera donc à trouver la configuration de départ la plus équilib
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-  - MATHEMATIQUES (Mathématiques Appliquées)
-	- INFORMATIQUE (Informatique Théorique)
-
-- Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
-- Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
-- Physique : Physique interdisciplinaire, Physique Ondulatoire, Physique de la matière, Mécanique, Physique Théorique
+- MATHEMATIQUES (Mathématiques Appliquées)
+- INFORMATIQUE (Informatique Théorique)
 
 
 ## Mots-clés (par ordre de priorité décroissante)
