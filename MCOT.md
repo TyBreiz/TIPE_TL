@@ -23,7 +23,12 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Bibliographie commentée (max 650 mots)
 
-
+Abalone est un jeu de société à deux joueur disposant de grande varité de règles et de positions initiales.
+C'est au niveau des positions initiale que mon TIPE porte son intérêt [1].
+Pour résoudre ce problème on utilisera l'algorithme min_max avec l'élagage alpha-bêta et différente heuristique.
+Pour évaluer l'équilibrage d'une position initiale nous comparerons le nombre de coups néscessaire pour arriver à une position gagnante en utilisant le même algorithme pour représenter chaque joueur [2]
+[3].
+Mais nous pouvons élargir le problème en considérant différent niveau de joueur symboliser par la profonduer prise en compte lors de l'execution de minmax et observer des changement aux niveau des position initiale qui sont équilibrer pour des joueur de niveau novices mais avantageuse pour un des joueurs de niveau intermédiaire.  
 
 ## Problématique retenue (max 50 mots)
 
