@@ -1,7 +1,8 @@
 # Gestion de l'équilibrage du jeu abalone à l'aide le l'intelligence artificielle.
 
 ## Motivation
-
+Cela peut parfois être frustrant de perdre des parties de jeux de sociétés du à sont positionnement dans la partie qui est souvent choisi aléatoirement.
+Mon TIPE consistera donc à trouver la configuration de départ la plus équilibré pour le jeu Abalone.
 
 ## Recherche en largeur dans un graphe, ou en programmation dynammique
 
