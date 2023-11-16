@@ -1,4 +1,4 @@
-# Gestion de l'équilibrage du jeu abalone à l'aide le l'intelligence artificielle.
+# Gestion de l'équilibrage du jeu abalone à l'aide de l'intelligence artificielle.
 
 ## Motivation
 Cela peut parfois être frustrant de perdre des parties de jeux de sociétés du à sont positionnement dans la partie qui est souvent choisi aléatoirement.
