@@ -1,9 +1,8 @@
 # Gestion de l'équilibrage du jeu abalone à l'aide de l'intelligence artificielle.
 
 ## Motivation
-Cela peut devenir frustrant de perdre des parties de jeux de sociétés dû à un facteur que l'on ne peut pas contrôler comme par exemple l'ordre dans lequel les joueurs jouent qui est souvent choisi aléatoirement.
-Bien sûr on pourrait choisir de jouer deux parties où l'on intervertit les rôles, mais ici on supposera que les joueurs sont pressés.
-Mon TIPE consistera donc à trouver la configuration de départ la plus équilibrée pour le jeu Abalone.
+Cela peut devenir frustrant de perdre des parties de jeux de sociétés à cause d'un facteur que l'on ne peut pas contrôler comme par exemple l'ordre dans lequel les joueurs jouent qui est souvent choisi aléatoirement où parce que l'on joue contre une personne beaucoup plus forte que nous.
+Mon TIPE consistera donc à trouver la configuration de départ la plus équilibrée pour le jeu Abalone pour des joueurs de niveau quelconque et ainsi rendre les parties plus intéréssantes.
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
@@ -35,7 +34,7 @@ qui seraient équilibrées pour des joueurs de niveau novice mais avantageuses p
 
 ## Problématique retenue (max 50 mots)
 
-Comment équilibrer le jeu Abalone pour une partie de joueur de niveau équivalent.
+Comment équilibrer le jeu Abalone pour une partie de joueur de niveau différent.
 
 
 ## Objectifs du TIPE (max 100 mots)
